@@ -1,0 +1,2 @@
+chainId = mention chainid
+NEXT_PUBLIC_SUBGRAPH_URL= mention subgraph url
